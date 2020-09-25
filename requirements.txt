@@ -1,0 +1,21 @@
+backend - Login/Registration Server:
+bcrypt
+express
+express-mysql-session
+express-session
+mysql
+
+backend - Chat Server:
+cors
+express
+nodemon
+socket.io
+
+frontend:
+mobx
+mobx-react
+query-string
+react-emoji
+react-router-dom
+react-scroll-to-bottom
+socket.io-client
