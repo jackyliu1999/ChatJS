@@ -29,3 +29,8 @@ npm install express --save
 npm install nodemon --save
 npm install socket.io --save
 ```
+## Video Demo
+
+A video has been created to demonstrate the functionality of ChatJS.
+
+[Click here to view demo.](https://www.youtube.com/watch?v=26YkidHsaPo)
